@@ -1,0 +1,9 @@
+centralindia
+
+https://eastus.api.cognitive.microsoft.com/sts/v1.0/issuetoken
+
+Key: 1,2
+
+e080665c75bc4281819fa6c7b56330e9
+
+1cf9ecea92744e13a31cf709c7842f23
